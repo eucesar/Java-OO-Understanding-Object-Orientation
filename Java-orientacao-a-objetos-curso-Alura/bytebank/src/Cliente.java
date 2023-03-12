@@ -1,9 +1,12 @@
+//apenas para criar organização de clientes
 public class Cliente {
 
     private String nome;
     private String cpf;
     private String profissao;
 
+    //get = pégar
+    //set = converter
     public String getNome() {
         return nome;
     }
