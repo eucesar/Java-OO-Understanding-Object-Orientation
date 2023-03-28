@@ -3,7 +3,7 @@
    <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </p>
 
-> 🌱👨‍💻 - Mastered programming paradigm most used in the job market. I understand what references and objects are. I used attributes, instance and class methods. Define objects through constructors. I learned about encapsulation. I created the site using the Alura course.
+> 🌱👨‍💻 - Mastered programming paradigm most used in the job market. I understand what references and objects are. I used attributes, instance and class methods. Define objects through constructors. I learned about encapsulation. I created this project using the Alura course.
 
 
 ## Download
